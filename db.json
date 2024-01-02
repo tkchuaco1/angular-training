@@ -1,0 +1,9 @@
+{
+    "product": [
+      { "id": 1, "name": "Laptop", "price":"20" },
+      { "id": 2, "name": "iphone", "price":"30" },
+      { "id": 3, "name": "quan chun", "price":"40" },
+      { "id": 4, "name": "ao ba lo", "price":"60" },
+      { "id": 5, "name": "mat kinh", "price":"50" }
+    ]
+  }
