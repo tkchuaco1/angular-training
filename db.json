@@ -1,9 +1,8 @@
 {
-    "product": [
-      { "id": 1, "name": "Laptop", "price":"20" },
-      { "id": 2, "name": "iphone", "price":"30" },
-      { "id": 3, "name": "quan chun", "price":"40" },
-      { "id": 4, "name": "ao ba lo", "price":"60" },
-      { "id": 5, "name": "mat kinh", "price":"50" }
+    "customer": [
+      { "id": 1, "name": "Chương", "username": "chuongvm", "password": "1" },
+      { "id": 2, "name": "Hòa", "username": "hoalt", "password": "1" },
+      { "id": 3, "name": "Dũng", "username": "dunght", "password": "1" },
+      { "id": 4, "name": "Linh", "username": "linhln", "password": "1" }
     ]
   }
